@@ -1,0 +1,19 @@
+<svg width="1100" height="720" viewBox="0 0 1100 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="720" fill="#070707"/>
+  <rect width="1100" height="720" fill="url(#bg)"/>
+  <path d="M0 120H1100V720H0V120Z" fill="#0E0E0E"/>
+  <path d="M120 92H980V560H120V92Z" fill="#141414" stroke="#D5A646" stroke-opacity=".22"/>
+  <path d="M160 130H940V520H160V130Z" fill="#080808"/>
+  <path d="M160 260H940M160 390H940M300 130V520M450 130V520M610 130V520M780 130V520" stroke="#D5A646" stroke-opacity=".14" stroke-width="3"/>
+  <rect x="210" y="570" width="680" height="72" rx="18" fill="#111" stroke="#D5A646" stroke-opacity=".18"/>
+  <rect x="300" y="490" width="500" height="86" rx="16" fill="#080808" stroke="#E9C684" stroke-opacity=".18"/>
+  <circle cx="850" cy="150" r="180" fill="#D5A646" opacity=".12"/>
+  <ellipse cx="550" cy="675" rx="460" ry="54" fill="#000" opacity=".6"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="720">
+      <stop stop-color="#1C160D"/>
+      <stop offset=".42" stop-color="#080808"/>
+      <stop offset="1" stop-color="#030303"/>
+    </linearGradient>
+  </defs>
+</svg>

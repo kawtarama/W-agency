@@ -1,0 +1,21 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#060606"/>
+  <rect width="900" height="1200" fill="url(#sky)"/>
+  <circle cx="720" cy="210" r="210" fill="#D5A646" opacity=".16"/>
+  <g filter="url(#soft)"><ellipse cx="360" cy="1000" rx="500" ry="100" fill="#000"/></g>
+  <path d="M72 870L448 520L828 870V1035H72V870Z" fill="#141414"/>
+  <path d="M112 862L448 548L790 862" stroke="#E9C684" stroke-opacity=".42" stroke-width="7"/>
+  <path d="M164 884H736V1030H164V884Z" fill="#0D0D0D" stroke="#D5A646" stroke-opacity=".18"/>
+  <rect x="215" y="702" width="118" height="172" rx="4" fill="#1E1E1E" stroke="#D5A646" stroke-opacity=".24"/>
+  <rect x="391" y="650" width="116" height="224" rx="4" fill="#191919" stroke="#E9C684" stroke-opacity=".28"/>
+  <rect x="566" y="702" width="118" height="172" rx="4" fill="#1E1E1E" stroke="#D5A646" stroke-opacity=".24"/>
+  <g opacity=".72">
+    <path d="M226 742H322M226 792H322M226 842H322M402 700H496M402 750H496M402 800H496M402 850H496M578 742H674M578 792H674M578 842H674" stroke="#E9C684" stroke-opacity=".34" stroke-width="3"/>
+  </g>
+  <path d="M0 1032C180 960 342 970 500 1010C655 1049 766 1030 900 970V1200H0V1032Z" fill="#090909"/>
+  <path d="M0 1040C170 980 342 982 520 1028C664 1065 788 1035 900 996" stroke="#D5A646" stroke-opacity=".24" stroke-width="3"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="900" y2="1200"><stop stop-color="#101722"/><stop offset=".45" stop-color="#090909"/><stop offset="1" stop-color="#030303"/></linearGradient>
+    <filter id="soft" x="-200" y="820" width="1120" height="320"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+</svg>

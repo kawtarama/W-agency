@@ -1,0 +1,13 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#070707"/>
+  <rect width="900" height="1200" fill="url(#room)"/>
+  <path d="M0 300H900V1060H0V300Z" fill="#101010"/>
+  <path d="M100 245H800L730 1060H170L100 245Z" fill="#151515" stroke="#D5A646" stroke-opacity=".18"/>
+  <path d="M190 350H710M165 520H735M145 700H755M120 880H780" stroke="#E9C684" stroke-opacity=".12" stroke-width="3"/>
+  <path d="M260 245L220 1060M450 245V1060M640 245L680 1060" stroke="#D5A646" stroke-opacity=".12" stroke-width="3"/>
+  <rect x="215" y="760" width="470" height="150" rx="14" fill="#090909" stroke="#D5A646" stroke-opacity=".25"/>
+  <rect x="310" y="675" width="280" height="62" rx="31" fill="#D5A646" opacity=".22"/>
+  <ellipse cx="450" cy="955" rx="360" ry="80" fill="#000" opacity=".55"/>
+  <circle cx="720" cy="185" r="140" fill="#D5A646" opacity=".12"/>
+  <defs><linearGradient id="room" x1="0" y1="0" x2="900" y2="1200"><stop stop-color="#1b150f"/><stop offset=".5" stop-color="#080808"/><stop offset="1" stop-color="#030303"/></linearGradient></defs>
+</svg>
